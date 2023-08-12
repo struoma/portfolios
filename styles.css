@@ -85,10 +85,11 @@ margin: auto;
     font-family: 'Nunito Sans', sans-serif;
     font-family: 'Permanent Marker', cursive;
     font-family: 'Satisfy', cursive;
-    font-size: 5em;
+    font-size: 4em;
     color: brown;
-    display: inline;
-   padding-left: 100px;
+    
+   padding-left: 400px;
+   padding-top: 200px;
   
    
 }
