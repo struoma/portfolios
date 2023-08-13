@@ -4,6 +4,7 @@ width: 700px;
 height: 1600px;
 background: black; 
 margin: auto;
+border: 1px solid gray;
 
 
 }
@@ -57,6 +58,7 @@ margin: auto;
     text-align: center;
     padding-left: 20px;
     padding-top: 50px;
+    height: 300px;
 }
 
 #about{
@@ -98,7 +100,6 @@ margin: auto;
 
     height: 350px;
     background: white;
-
     padding: 20px;
 }
 
@@ -108,6 +109,7 @@ form{
 
     border: 2px dashed gray;
     padding: 10px;
+   
   
 }
 
@@ -129,6 +131,11 @@ form{
     font-family: 'Satisfy', cursive;
     text-align: center;
     background: black;
-   
+ 
     
+}
+
+#parafooter{
+
+    display: inline;
 }
