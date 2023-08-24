@@ -14,6 +14,8 @@ border: 1px solid gray;
     height: 80px;
     padding: 20px;
     background: black;
+   
+    
     
     
 }
@@ -21,7 +23,7 @@ border: 1px solid gray;
 #nav a{
 
     padding: 10px;
-    font-family: 'Nunito Sans', sans-serif;
+
     font-family: 'Permanent Marker', cursive;
     font-family: 'Satisfy', cursive;
     font-size: 2em;
