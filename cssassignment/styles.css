@@ -1,0 +1,143 @@
+#container{
+
+width: 700px;
+height: 1600px;
+background: black; 
+margin: auto;
+border: 1px solid gray;
+
+
+}
+
+
+#nav{
+    height: 80px;
+    padding: 20px;
+    background: black;
+   
+    
+    
+    
+}
+
+#nav a{
+
+    padding: 10px;
+
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#home{
+
+
+    height: 399px;
+    background: white;
+    background-image: url("portfolio.jpg");
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 5em;
+    padding: 15px;
+    color: white;
+}
+
+#floatleft{
+    float: left;
+    color: blue;
+    width: 300px;
+    background: brown;
+    height: 300px;
+}
+
+#floatright{
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 50px;
+    height: 300px;
+}
+
+#about{
+
+
+    height: 300px;
+    background: white;
+}
+
+#work{
+
+
+    height: 300px;
+    background: white;
+    background-image: url("logo.png") ;
+    margin: 20px;
+}
+#para{
+
+    display: inline;
+}
+
+#jet{
+
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 4em;
+    color: brown;
+    
+   padding-left: 400px;
+   padding-top: 200px;
+  
+   
+}
+
+#contact{
+
+    height: 350px;
+    background: white;
+    padding: 20px;
+}
+
+
+
+form{
+
+    border: 2px dashed gray;
+    padding: 10px;
+   
+  
+}
+
+#cont{
+
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 2em;
+   display: inline;
+
+}
+
+#footer{
+  color: white;
+    height: 50px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    background: black;
+ 
+    
+}
+
+#parafooter{
+
+    display: inline;
+}
